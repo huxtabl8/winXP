@@ -2,8 +2,8 @@
   "name": "winXP",
   "version": "0.1.0",
   "private": true,
-  "author": "ShizukuIchi <shizukuichi@gmail.com>",
-  "homepage": "https://winxp.now.sh",
+  "author": "huxtabl8 <huxtabl8@gmail.com>",
+  "homepage": "winxpclone.vercel.app",
   "dependencies": {
     "lodash.samplesize": "^4.2.0",
     "react": "^16.8.6",
